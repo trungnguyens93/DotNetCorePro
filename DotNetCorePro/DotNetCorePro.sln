@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity", "Identity", "{5753FD9B-98B3-4CCD-9AA9-1DD6906225BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.WebUI", "Identity.WebUI\Identity.WebUI.csproj", "{2D5505DB-1076-4273-B107-417DC47249A5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic", "Basic", "{F17D7221-9481-4B4D-9FD1-6EE9EDD2B280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic.WebUI", "Basic.WebUI\Basic.WebUI.csproj", "{57895E38-46B8-450D-91AF-8121EE30FDA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +13,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2D5505DB-1076-4273-B107-417DC47249A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2D5505DB-1076-4273-B107-417DC47249A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2D5505DB-1076-4273-B107-417DC47249A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2D5505DB-1076-4273-B107-417DC47249A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57895E38-46B8-450D-91AF-8121EE30FDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57895E38-46B8-450D-91AF-8121EE30FDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57895E38-46B8-450D-91AF-8121EE30FDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57895E38-46B8-450D-91AF-8121EE30FDA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{2D5505DB-1076-4273-B107-417DC47249A5} = {5753FD9B-98B3-4CCD-9AA9-1DD6906225BB}
+		{57895E38-46B8-450D-91AF-8121EE30FDA7} = {F17D7221-9481-4B4D-9FD1-6EE9EDD2B280}
 	EndGlobalSection
 EndGlobal
